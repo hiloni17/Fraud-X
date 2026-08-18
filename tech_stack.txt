@@ -1,0 +1,25 @@
+| Layer               | Technology                  |
+| ------------------- | --------------------------- |
+| Language            | Python                      |
+| ML                  | Scikit-learn                |
+| Advanced ML         | XGBoost / LightGBM          |
+| Deep Learning       | PyTorch                     |
+| GNN                 | PyTorch Geometric           |
+| FL                  | Flower                      |
+| XAI                 | SHAP                        |
+| GNN XAI             | GNNExplainer                |
+| Blockchain          | Ethereum-compatible network |
+| Smart Contract      | Solidity                    |
+| Blockchain API      | Web3.py                     |
+| Local Blockchain    | Hardhat/Ganache             |
+| Backend             | FastAPI                     |
+| Frontend            | React.js                    |
+| Graph Visualization | Cytoscape.js                |
+| Database            | PostgreSQL                  |
+| Data Processing     | Pandas / NumPy              |
+| Imbalance           | SMOTE / class weights       |
+| Containerization    | Docker                      |
+| Version Control     | Git + GitHub                |
+| Testing             | PyTest                      |
+| API Testing         | Postman                     |
+| Deployment          | Docker/AWS                  |
