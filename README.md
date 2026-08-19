@@ -1,3 +1,3 @@
 # Fraud-X
 
-This is just test 2
+This is just test
